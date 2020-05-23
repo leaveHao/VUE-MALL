@@ -4,6 +4,7 @@
 
 ## 项目地址
 * gitee地址[点击进入](https://gitee.com/leaveHao/VUE-MALL.git)
+* github地址[点击进入](https://github.com/leaveHao/VUE-MALL.git)
 
 ## 演示地址
 * <a href="http://mall.leospace.cn" target="_blank">mall.leospace.cn</a>
