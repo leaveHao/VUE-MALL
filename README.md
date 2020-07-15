@@ -26,9 +26,5 @@ npm run serve
 npm run build
 ```
 
-## 致谢：
-* coderwhy提供项目。
-* `src/network/request.js`文件里的接口地址请加老师微信：coderwhy001购买
-
 ### 帮助
 **如遇到无法解决的问题可以私信我或者通过邮箱[leavehao@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGhhZXJhbGVrRGJrfGllbWgqZ2tp)联系我**
